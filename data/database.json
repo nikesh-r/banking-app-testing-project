@@ -11,7 +11,7 @@
       "phoneNumber": "625-316-9882",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/t45AiwidW.svg",
       "defaultPrivacyLevel": "public",
-      "balance": 9950000,
+      "balance": 9949500,
       "createdAt": "2019-08-27T23:47:05.637Z",
       "modifiedAt": "2020-05-21T11:02:22.857Z"
     },
@@ -71,7 +71,7 @@
       "phoneNumber": "277-189-3402",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/tsHF6_D5oQ.svg",
       "defaultPrivacyLevel": "contacts",
-      "balance": 75369,
+      "balance": 75869,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
     }
@@ -9855,6 +9855,31 @@
       "requestResolvedAt": "",
       "createdAt": "2019-06-27T22:24:04.794Z",
       "modifiedAt": "2020-05-21T04:58:44.494Z"
+    },
+    {
+      "id": "m3e6QnsqL",
+      "uuid": "33786eae-d005-46e0-83d5-e940182b2aa0",
+      "amount": 1000,
+      "description": "something",
+      "receiverId": "qywYp6hS0U",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "pending",
+      "requestStatus": "pending",
+      "createdAt": "2023-05-24T17:42:45.440Z",
+      "modifiedAt": "2023-05-24T17:42:45.440Z"
+    },
+    {
+      "id": "HDRGdwUPG",
+      "uuid": "baf6e873-2a10-4b19-94b8-b32137680285",
+      "amount": 500,
+      "description": "bf6d1d1f-6106-4409-8802-e13e0c65a59d",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2023-05-24T17:53:24.834Z",
+      "modifiedAt": "2023-05-24T17:53:24.834Z"
     }
   ],
   "likes": [
@@ -10459,6 +10484,26 @@
       "isRead": false,
       "createdAt": "2023-05-24T14:42:28.571Z",
       "modifiedAt": "2023-05-24T14:42:28.571Z"
+    },
+    {
+      "id": "H68tv8TxxR",
+      "uuid": "2d4eb9ac-5020-41b6-8e36-0df9768b718a",
+      "userId": "qywYp6hS0U",
+      "transactionId": "m3e6QnsqL",
+      "status": "requested",
+      "isRead": false,
+      "createdAt": "2023-05-24T17:42:45.473Z",
+      "modifiedAt": "2023-05-24T17:42:45.473Z"
+    },
+    {
+      "id": "1bSNY6trKA",
+      "uuid": "18abcddf-492e-4ca5-9a78-233ffc75fa95",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "HDRGdwUPG",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2023-05-24T17:53:24.901Z",
+      "modifiedAt": "2023-05-24T17:53:24.901Z"
     }
   ],
   "banktransfers": [
